@@ -1,0 +1,52 @@
+{
+    "name": "TryP04",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.7.0.63",
+            "frameworkVersion": "6.7.0.212"
+        },
+        "urlPrefixTemplate": "http://localhost:{port}/{path}",
+        "urlPrefix": "http://localhost:54811/",
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Desktop (Auto Expand)",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            },
+            "viewportOrientation": "portrait"
+        },
+        "exportPath": "C:/HongGang/Work/TryProject/Try04.Published",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "CRLF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "4.2.5",
+    "xdsBuild": 420,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "modern67",
+    "viewOrderMap": {
+        "view": [
+            "a3163432-0805-4ee1-996b-eb5e27ebb32f",
+            "68593655-8544-4ef0-b988-24247db6d741",
+            "7a4f815d-af94-4e29-b734-cd7843381ae6"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "a26c7ee2-7a69-4891-9aa6-b2d1dc59ec30",
+            "b04a1c40-92ea-47e9-9542-b547299b9a86",
+            "28845732-d321-4c2a-b6c5-0723aafeb10e"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
